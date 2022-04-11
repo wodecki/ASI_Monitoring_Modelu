@@ -1,1 +1,0 @@
-"/Users/wodecki/Mój dysk/2. Areas/1. Szkolenia/4. PJATK/Semestr lato 2022/ASI/! Moje materiały/1. Wykłady/! robocze/3. Dryf modelu i danych/ćwiczenia/komponenty testowe/1. Skan folderu z danymi/inference.py"
